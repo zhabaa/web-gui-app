@@ -1,4 +1,4 @@
-# Handwriting Recognition Project
+# Handwriting Recognition Project.
 
 Проект для распознавания рукописных цифр и букв с двумя интерфейсами: \
 web-версией на Flask и GUI-версией.
